@@ -26,7 +26,7 @@ This repository contains my Python learning journey.
 - [x] Python Setup
 - [x] Variables
 - [ ] Conditions
-- [ ] Loops
+- [X] Loops
 - [ ] Functions
 - [ ] Data Structures
 
@@ -34,4 +34,4 @@ This repository contains my Python learning journey.
 
 This repository is for learning and practicing Python from the basics.
 
-🚀 Learning Python one day at a time.
+🚀 Learning Python one day at a time.a
