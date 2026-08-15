@@ -1,6 +1,9 @@
-class employee :
-    name = "Nikunj"
-    age = 20 
+class Employee :
+    language = "Py"            '''this is classs attribute'''
     salary = 1200000
-nikunj = employee()
-print(nikunj.name , nikunj.age)    
+First = Employee()
+Name = "Nikunj"              ''' This is object attribute'''
+print(First.salary ,Name )
+second = Employee()
+secondname = "Anant"
+print(second.salary , secondname)
