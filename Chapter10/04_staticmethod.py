@@ -3,7 +3,8 @@ class Marks :
     Anantt = "jai ho"
     Punit = 100
     Atul = 100
-    def Ling(self):
+    @staticmethod
+    def Ling():
         print("hey I am the best assasin ut there")
 
 
