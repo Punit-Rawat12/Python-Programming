@@ -4,6 +4,7 @@ class Employee :
 First = Employee()
 Name = "Nikunj"              ''' This is instance  attribute'''
 print(First.salary ,Name )
+
 second = Employee()
 secondname = "Anant"
 print(second.salary , secondname)
